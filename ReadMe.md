@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Benedek 👋</h1>
-<h4 align="center">A computer science student from Hungary</h4>
+<h1 align="center">Hello there!</h1>
+<h4 align="center">I'm a computer science student from Hungary</h4>
 
 <p align="left">
 	<a href="https://twitter.com/szBene42" target="blank">
@@ -9,7 +9,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on [**RoLand** (not yet public)](https://github.com/szBene/RoLand)
+- 🔭 I’m currently working on **RoLand**
 
 - 🌱 I’m currently learning **C, HTML, CSS, JS**
 
