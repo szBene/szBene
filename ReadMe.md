@@ -17,8 +17,6 @@
 
 - 📫 How to reach me: drop me a dm on **[twitter](https://twitter.com/szBene42 "my twitter profile")** or send an **[email](mailto:szbene.github@gmail.com?subject=GitHub%20contact&body=Hello&#44;%20I&#39;m%20contacting%20you%20from%20your%20Github%20profile&#46; "send an email")**
 
-- ⚡ Fun fact, **I'm a hobby photographer** and a **space nerd**
-
 <h3 align="left">Languages</h3>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
