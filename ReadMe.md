@@ -1,5 +1,4 @@
 <h1 align="center">Hello there!</h1>
-<h4 align="center">I'm a computer science student from Hungary</h4>
 
 <p align="left">
 	<a href="https://twitter.com/szBene42" target="blank">
