@@ -40,6 +40,16 @@
 
 <h3 align="left">Software</h3>
 <p align="left">
+	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="JetBrains PyCharm" width="40" height="40"/>
+	</a>
+	<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
+		<img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" alt="JetBrains CLion" width="40" height="40"/>
+	</a>
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
+	</a>
+	<br>
 	<a href="https://affinity.serif.com/en-us/designer/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-2-020520191502.svg" alt="Affinity Designer" width="40" height="40"/>
 	</a>
