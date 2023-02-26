@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **RoLand**
 
-- 🌱 I’m currently learning **C, HTML, CSS, JS**
+- 🌱 I’m currently learning **C++, HTML, CSS, JS**
 
 - 💬 Ask me about **python**, **photography** and **space stuff**
 
