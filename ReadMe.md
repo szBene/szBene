@@ -8,13 +8,13 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on **RoLand**
+- 🔭 I’m currently working on **a super sectret personal project**
 
 - 🌱 I’m currently learning **C++, HTML, CSS, JS**
 
 - 💬 Ask me about **python**, **photography** and **space stuff**
 
-- 📫 How to reach me: drop me a dm on **[twitter](https://twitter.com/szBene42 "my twitter profile")** or send an **[email](mailto:szbene.github@gmail.com?subject=GitHub%20contact&body=Hello&#44;%20I&#39;m%20contacting%20you%20from%20your%20Github%20profile&#46; "send an email")**
+- 📫 How to reach me: drop me a dm on **[twitter](https://twitter.com/szBene42 "my twitter profile")** or send an **[email](mailto:szbene.github@gmail.com?subject=GitHub%20contact&body=Hello%20there!&#44;%20I&#39;m%20contacting%20you%20from%20your%20Github%20profile&#46; "send an email")**
 
 <h3 align="left">Languages</h3>
 <p align="left">
