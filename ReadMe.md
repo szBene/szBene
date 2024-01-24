@@ -1,18 +1,10 @@
 <h1 align="center">Hello there!</h1>
-
-<!--<p align="left">
-	<a href="https://twitter.com/szBene42" target="blank">
-		<img src="https://img.shields.io/twitter/follow/szBene42?logo=twitter&style=for-the-badge" alt="szBene42" />
-	</a>
-</p>-->
-
 <h3 align="left">About me</h3>
 <i>I'm just a simple man trying to make my way in the universe</i><br>
 💻 🚀 📷 🌌 🇭🇺 <br>
-CS student, space enthusiast, hobby photographer, occasionally graphic designer and writer.
+CSE student, space enthusiast, hobby photographer, occasionally graphic designer and writer.
 
 <h3 align="left">Languages</h3>
-<p>I mostly use Python for all my personal projects, and the rest for university stuff</p>
 <p align="left">
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
